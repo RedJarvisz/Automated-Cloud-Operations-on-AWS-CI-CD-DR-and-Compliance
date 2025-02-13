@@ -1,5 +1,3 @@
-# Automated-Cloud-Operations-on-AWS-CI-CD-DR-and-Compliance
-
 # Automated Cloud Operations on AWS: CI/CD, DR, and Compliance
 
 ## Overview
